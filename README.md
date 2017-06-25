@@ -1,8 +1,8 @@
 # Guest-Book
 
 for run use
->$ ./a
+>$ ./server.py
 
 or
 
->$ ./server.py
+>$ ./a        (kill python and python3 process)
